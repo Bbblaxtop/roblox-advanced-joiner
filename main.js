@@ -3,7 +3,7 @@
 // @version      1.0
 // @description  Join on places or public servers with Advanced Joiner
 // @author       salat20
-// @match        https://*.roblox.com/*
+// @match        https://www.roblox.com/games/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=roblox.com
 // @grant        none
 // ==/UserScript==
